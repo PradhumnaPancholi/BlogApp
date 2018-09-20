@@ -1,5 +1,5 @@
 {
-  "name": "Blog Application",
+  "name": "redux-simple-starter",
   "version": "1.0.0",
   "description": "A Simple BLog Alication with React",
   "main": "index.js",
