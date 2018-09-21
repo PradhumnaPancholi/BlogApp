@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import fetchPosts from '../actions';
 import _ from 'lodash';
-
 import { Link } from 'react-router-dom';
+
 class PostsIndex extends Component{
   componentDidMount() {
     this.props.fetchPosts();
